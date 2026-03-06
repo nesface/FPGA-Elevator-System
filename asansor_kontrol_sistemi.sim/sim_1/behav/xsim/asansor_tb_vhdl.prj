@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../asansor_kontrol_sistemi.srcs/sources_1/new/asansor_paket.vhd" \
+"../../../../asansor_kontrol_sistemi.srcs/sources_1/new/asansor_kontrol.vhd" \
+"../../../../asansor_kontrol_sistemi.srcs/sim_1/new/asansor_tb.vhd" \
+
+# Do not sort compile order
+nosort

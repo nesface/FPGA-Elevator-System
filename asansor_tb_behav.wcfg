@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="asansor_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="asansor_paket" />
+            <top_module name="asansor_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000000 us"></ZoomStartTime>
+      <ZoomEndTime time="8.782130 us"></ZoomEndTime>
+      <Cursor1Time time="0.000006 us"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="144"></NameColumnWidth>
+      <ValueColumnWidth column_width="72"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="6" />
+   <wvobject fp_name="/asansor_tb/cagri_ic" type="array">
+      <obj_property name="ElementShortName">cagri_ic[3:0]</obj_property>
+      <obj_property name="ObjectShortName">cagri_ic[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/asansor_tb/cagri_dis" type="array">
+      <obj_property name="ElementShortName">cagri_dis[3:0]</obj_property>
+      <obj_property name="ObjectShortName">cagri_dis[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/asansor_tb/motor_yon" type="array">
+      <obj_property name="ElementShortName">motor_yon[1:0]</obj_property>
+      <obj_property name="ObjectShortName">motor_yon[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/asansor_tb/kapi_durum" type="array">
+      <obj_property name="ElementShortName">kapi_durum[1:0]</obj_property>
+      <obj_property name="ObjectShortName">kapi_durum[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/asansor_tb/mevcut_kat" type="array">
+      <obj_property name="ElementShortName">mevcut_kat[1:0]</obj_property>
+      <obj_property name="ObjectShortName">mevcut_kat[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/asansor_tb/durum_dbg" type="array">
+      <obj_property name="ElementShortName">durum_dbg[3:0]</obj_property>
+      <obj_property name="ObjectShortName">durum_dbg[3:0]</obj_property>
+   </wvobject>
+</wave_config>
