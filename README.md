@@ -8,4 +8,4 @@ Güvenlik: Kapı sensörü engeli, aşırı yük (overload) kontrolü ve acil du
 Teknik Detaylar
 Dil: VHDL 
 Araçlar: Vivado 
-Donanım Hedefi: FPGA tabanlı sistemler
+Donanım Hedefi: FPGA tabanlı sistemler 
